@@ -1,0 +1,11 @@
+Cadastro / Alteracao / Remocao de Categoria
+Cadastro / Alteracao / Remocao de produto
+Cadastro / Alteracao / Remocao de Fornecedor
+Cadastro / Alteracao / Remocao de Cliente
+Cadastro / Alteracao / Remocao de Funcionario
+Caixa
+Relatorios de geral de vendas
+Relatorios de vendas por data
+Relatorio de produtos mais vendidos
+Relatorio de clientes que mais compraram 
+
